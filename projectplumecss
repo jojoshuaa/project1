@@ -249,6 +249,10 @@ footer a:hover{
   text-decoration: underline;
 }
 
+i{
+font-size: 20px;
+}
+
 .end{
   width: 1442px;
   background-color: #05314C;
